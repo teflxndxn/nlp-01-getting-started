@@ -9,6 +9,8 @@ name = "nlp"               # CUSTOM: Package distribution name (use lowercase an
 readme = "README.md"
 requires-python = ">=3.14"
 version = "0.1.0"
+authors = [{name = "Blessing Aganaga"}
+]
 
 dependencies = [
     # REQ.DEPS: External packages used by the project code.
