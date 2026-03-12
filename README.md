@@ -1,9 +1,10 @@
 # nlp-01-getting-started
 
-[![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
-[![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
-
-> Professional Python project for Web Mining and Applied NLP.
+Python 3.14+ • MIT License
+Author: Blessing Aganaga
+GitHub: https://github.com/teflxndxn
+Project Repo: https://github.com/teflxndxn/nlp-01-getting-started
+> Professional Python project for learning Web Mining and Applied Natural Language Processing (NLP).
 
 Web Mining and Applied NLP focus on retrieving, processing, and analyzing text from the web and other digital sources.
 This course builds those capabilities through working projects.
