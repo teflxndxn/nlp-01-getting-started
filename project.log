@@ -1,0 +1,12 @@
+2026-03-12 19:36:22 | INFO | CI | === RUN START ===
+2026-03-12 19:36:22 | INFO | CI | project=NLP
+2026-03-12 19:36:22 | INFO | CI | repo_dir=nlp-01-getting-started
+2026-03-12 19:36:22 | INFO | CI | python=3.13.2
+2026-03-12 19:36:22 | INFO | CI | os=Darwin 25.3.0
+2026-03-12 19:36:22 | INFO | CI | shell=zsh
+2026-03-12 19:36:22 | INFO | CI | cwd=.
+2026-03-12 19:36:22 | INFO | CI | github_actions=False
+2026-03-12 19:36:22 | INFO | CI | START script.....
+2026-03-12 19:36:22 | INFO | CI | ROOT_PATH: /Users/stephneyaganaga/Repos/nlp-01-getting-started
+2026-03-12 19:36:22 | INFO | CI | NOTEBOOKS_PATH: /Users/stephneyaganaga/Repos/nlp-01-getting-started/notebooks
+2026-03-12 19:36:22 | INFO | CI | SCRIPTS_PATH: /Users/stephneyaganaga/Repos/nlp-01-getting-started/scripts
